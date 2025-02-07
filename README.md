@@ -10,6 +10,6 @@ https://alanvender77.github.io./
 2) Clone the repository
 3) Enter the project folder and add an index.html file
 4) Add, commit, and push your changes
-5) Fire up a browser and go to https://username.github.io.
+5) Fire up a browser and go to https://username.github.io
 
 Solid exercise
